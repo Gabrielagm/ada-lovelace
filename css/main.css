@@ -1,0 +1,20 @@
+h1{
+    outline:1px solid yellow;
+}
+.caja{
+    /*outline:1px solid red;<-Uso esta propiedad solo para ver el area que ocupa la caja*/
+    width:430px;
+    padding:15px;
+    border:1px solid #999;
+    box-sizing:border-box;
+    float:left;
+    margin-left:8px;
+}
+p{
+    outline:1px solid orange;
+}
+
+img{
+    outline:1px solid pink;
+    max-width:100%;
+}
